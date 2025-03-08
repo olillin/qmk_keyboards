@@ -14,3 +14,7 @@
 - Added shift to Symbols layer
 - Added "compose" key in order to type Swedish characters (å, ä and ö)
 - Added modifier keys to Numpad layer
+
+## v1.3
+
+- Added power buttons and calculator button
