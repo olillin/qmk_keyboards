@@ -14,3 +14,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 DEFAULT_FOLDER = splitkb/aurora/lily58/rev1
+
+NKRO_ENABLE = yes
+
+STENO_ENABLE = yes
+STENO_PROTOCOL = geminipr
