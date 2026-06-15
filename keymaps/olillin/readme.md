@@ -38,3 +38,16 @@ In addition to this there are also mouse controls.
 ![Layer 3](layer_screenshots/layer3.png)
 
 The Numpad layer exposes a numpad on the right hand and media and extra function buttons on the left hand.
+
+### Layer 4: Plover
+
+![Layer 4](layer_screenshots/layer4.png)
+
+Stenography keys.
+
+### Layer 5: Gaming
+
+![Layer 5](layer_screenshots/layer5.png)
+
+Copy of Layer 0 but with `L_CTL_T(KC_ESC)` replaced with normal `KC_LCTL`.
+
