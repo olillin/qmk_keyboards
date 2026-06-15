@@ -20,34 +20,34 @@ The homing thumb fingers are used to access the different layers.
 - The homing right thumb finger gives access to the Navigation layer
 - Pressing both homing thumb fingers gives access to the Numpad layer
 
-### Layer 1: Symbols
+### Layer 1: Gaming
 
-![Layer 1](layer_screenshots/layer1.png)
+![Layer 1](layer_screenshots/layer5.png)
+
+Layer 0 but with `L_CTL_T(KC_ESC)` replaced with normal `KC_LCTL`.
+
+### Layer 2: Symbols
+
+![Layer 2](layer_screenshots/layer2.png)
 
 The Symbols layer gives access to some symbols in addition to the delete key as an alternate to backspace.  
 
-### Layer 2: Navigation
+### Layer 3: Navigation
 
-![Layer 2](layer_screenshots/layer2.png)
+![Layer 3](layer_screenshots/layer3.png)
 
 The Navigation layer gives access the arrow keys on the right hand, navigation keys on the left hand in addition to a function key row.  
 In addition to this there are also mouse controls.
 
-### Layer 3: Numpad
-
-![Layer 3](layer_screenshots/layer3.png)
-
-The Numpad layer exposes a numpad on the right hand and media and extra function buttons on the left hand.
-
-### Layer 4: Plover
+### Layer 4: Numpad
 
 ![Layer 4](layer_screenshots/layer4.png)
 
-Stenography keys.
+The Numpad layer exposes a numpad on the right hand and media and extra function buttons on the left hand.
 
-### Layer 5: Gaming
+### Layer 5: Plover
 
 ![Layer 5](layer_screenshots/layer5.png)
 
-Copy of Layer 0 but with `L_CTL_T(KC_ESC)` replaced with normal `KC_LCTL`.
+Stenography keys.
 
